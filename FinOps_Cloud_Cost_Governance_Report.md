@@ -37,7 +37,7 @@ We would like to express our sincere gratitude to all those who have supported a
 
 First, we extend our heartfelt thanks to our industry mentor, Ms. Preeti Saini, at Zop, for her continuous guidance, technical insight, and constructive feedback during every phase of the project. Her practical perspective on cloud cost governance and her willingness to share real-world experience helped us connect academic concepts to industry practice in a meaningful way.
 
-We are also deeply grateful to the Department of Computer Science and Engineering, Chitkara University Institute of Engineering and Technology, for facilitating this CO-OP programme and for the academic foundation that prepared us for this engagement. We thank our faculty coordinators for their guidance on the structure and scope of the project report and for the prompt support they provided whenever we approached them.
+We are also deeply grateful to the Department of Computer Science and Engineering, Chitkara University Institute of Engineering and Technology, for facilitating this CO-OP programme and for the academic foundation that prepared us for this engagement. We thank our faculty coordinators for their guidance on the structure and scope of the project report and for their prompt support whenever we approached them.
 
 We would also like to acknowledge the engineering and finance professionals who participated in our research interviews and shared their honest experiences with FinOps adoption. Their insights formed the empirical core of this study.
 
@@ -49,9 +49,7 @@ Finally, we thank our families and peers for their constant encouragement, patie
 
 ## Contents
 
-- Declaration
 - Acknowledgement
-- List of Figures and Tables
 - Abstract
 - 1 Introduction
 - 2 Methodology
